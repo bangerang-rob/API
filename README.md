@@ -33,3 +33,22 @@ API's that meet the REST architectural style constraints are considered to be RE
 - Uniform Design
 - Code on Demand
 
+Your program sends a GET request to a URI. Then the server response with data and all http headers. 
+The body these days is typically represented as JSON (JavaScript Object Natotaion)
+
+JSON actually provides a great way to structure and nest your data.
+
+HTTP Verbs | CRUD 
+--- | --- 
+GET | Read 
+POST | Create 
+PUT | Update 
+PATCH | Update
+DELETE | Delete 
+
+
+Many products offer what is known as an SDK (Software Developer Kit) or helper library that allows you to interact with their product in your native language.
+
+```
+to be continued...
+```

@@ -52,3 +52,10 @@ Many products offer what is known as an SDK (Software Developer Kit) or helper l
 ```
 to be continued...
 ```
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
